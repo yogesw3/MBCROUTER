@@ -1,0 +1,5 @@
+applications:
+  name: MBCROUTER
+  random-route: true
+  path: MBCROUTER
+  memory: 128M
